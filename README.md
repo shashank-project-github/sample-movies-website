@@ -1,56 +1,46 @@
-# Movies Website
 
-This repository contains the HTML and CSS code for a basic movies website.
+### Movies Website
 
-## Table of Contents
+This repository contains code for a simple movies website built using HTML and CSS.
+
+#### Table of Contents
 
 - [Description](#description)
-- [Screenshots](#screenshots)
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contributing](#contributing)
 - [License](#license)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-## Description
+#### Description
 
-This project is a simple movies website built using HTML and CSS. It includes a navigation bar, a search bar, and a grid layout displaying movie posters with corresponding descriptions.
+This project is a basic movies website designed to showcase movie thumbnails with a brief description. It utilizes HTML for the structure and CSS for styling.
 
-## Screenshots
+#### Features
 
-[//]: # "Include screenshots of your website here."
+- Responsive design: The website is responsive and adjusts to different screen sizes.
+- Search functionality: Basic search functionality is included in the navigation bar.
+- Movie thumbnails: Each movie is represented by a thumbnail image and a brief description.
 
-## Installation
+#### Installation
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone this repository to your local machine using `git clone https://github.com/yourusername/movies-website.git`.
+2. Navigate to the project directory.
+3. Open the `index.html` file in your web browser.
 
-   ```bash
-   git clone https://github.com/your-username/movies-website.git
-   ```
+#### Usage
 
-2. Navigate into the project directory:
+- Navigate through the website using the navigation bar.
+- Search for specific movies using the search bar.
+- Click on a movie thumbnail to view more details.
 
-   ```bash
-   cd movies-website
-   ```
+#### Contributing
 
-3. Open the `index.html` file in your preferred web browser.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-## Usage
-
-Feel free to customize the content and styles to fit your needs. You can modify the HTML and CSS files according to your preferences. Additionally, you can add more movie posters and descriptions to expand the website.
-
-## Credits
-
-This project uses the following resources:
-
-- Font Awesome for icons: [Font Awesome](https://fontawesome.com/)
-- Movie images: [Unsplash](https://unsplash.com/)
-
-## License
+#### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
