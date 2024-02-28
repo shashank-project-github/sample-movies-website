@@ -56,8 +56,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [Shashank Verma](https://github.com/your-username)
 
 ## Acknowledgments
 
-Special thanks to [Shashank Verma](https://github.com/shashank-verma) for the inspiration and guidance.
+"Thank you for acknowledging my efforts in creating my first movie website independently. Your recognition means a lot to me and motivates me to continue improving my skills in web development."
